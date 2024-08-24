@@ -2,6 +2,8 @@ Topic: Nykaa Back-end replica
 
 I hereby declare that i have done this project as the replica of the ecommercd website Nykaa.
 
+Schema link:https://drawsql.app/teams/keerthana-govindarajan/diagrams/nykaa-replica
+
 Features:
 1.Login:
   1.1 Admin login
@@ -62,3 +64,4 @@ Features:
   
 12.Help center:
   12.1 Posting questions and sending answers
+
